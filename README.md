@@ -19,5 +19,21 @@
 ### Purpose : 
 AtliQ Motors, a US EV titan boasting a 25% market share in North America's electric and hybrid segments, is revving up for a launch in India, where their presence is less than 2%. To accelerate this expansion, the head of AtliQ Motors India has put the data analytics team in the driver’s seat for a thorough market study.
 
-### Tools : 
-Power Query Editor, Power BI, DAX, Python libraries, Data Table Relationships, Canva, and PowerPoint
+### Analysis Workflow and Tool Utilization :
+- Converted variables to appropriate data types using  Python
+- Established the necessary data relationships between tables to ensure accurate data analysis and meaningful insights.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9bbcf63-c836-4639-8563-2a1d46096200"  width="500">
+</p>
+- Transformed data using Power Query Editor and created essential columns and measures for thorough analysis.
+- Utilized metadata research to support recommendations and provide deeper insights into the data, ensuring more informed and accurate decision-making.
+- Used Power BI to create an interactive and easy-to-understand dashboard, enabling clear visualization and analysis of key metrics.
+
+
+<h2 align="center">
+  Preliminary Research Questions
+</h2>
+
+![image](https://github.com/user-attachments/assets/2ae2eaf9-684f-4cb9-a366-43a0dcca6c14)
+
+
