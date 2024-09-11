@@ -267,18 +267,19 @@ Based on the factors of subsidies, ease of doing business, and stability in gove
 
 ### Top Three Recommendations for AtliQ Motors
 
-1. Establish Manufacturing in Kerala
+1. Establish Manufacturing in Kerala : <br>
 Kerala is an ideal location for setting up an EV manufacturing unit due to its substantial government incentives under the FAME II scheme, robust EV charging infrastructure, and stable governance. The state's proactive support for EV adoption, along with its streamlined business environment, makes it a strategic choice for manufacturing and long-term investment.
 
-2. Leverage Government Incentives and Schemes
+2. Leverage Government Incentives and Schemes : <br>
 To maximize financial benefits and reduce initial costs, take full advantage of central and state government subsidies, particularly under the FAME II policy. These incentives not only lower the financial burden but also enhance the company's competitive edge in the growing Indian EV market.
 
-3. Focus on Infrastructure Development and Market Penetration
+3. Focus on Infrastructure Development and Market Penetration : <br>
 Prioritize regions with high EV penetration rates like Goa, Kerala, and Karnataka for initial market entry. These states have demonstrated effective support from charging infrastructure, which is critical for customer adoption and satisfaction. Aligning with regions that have a well-established EV ecosystem will facilitate a smoother market entry and quicker adoption of your products.
 
 ## Contact
 
 Author: [@Smit Rana](https://www.linkedin.com/in/smit98rana/)
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
