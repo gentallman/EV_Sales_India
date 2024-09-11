@@ -19,6 +19,11 @@
 ### Purpose : 
 AtliQ Motors, a US EV titan boasting a 25% market share in North America's electric and hybrid segments, is revving up for a launch in India, where their presence is less than 2%. To accelerate this expansion, the head of AtliQ Motors India has put the data analytics team in the driver’s seat for a thorough market study.
 
+<p align="center">
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/bfa3c053-63f2-483c-b32c-96a30fdf6dbe" width="900">
+</p>
+
 ### Analysis Workflow and Tool Utilization :
 - Converted variables to appropriate data types using  Python
 - Established the necessary data relationships between tables to ensure accurate data analysis and meaningful insights.
@@ -34,6 +39,19 @@ AtliQ Motors, a US EV titan boasting a 25% market share in North America's elect
   Preliminary Research Questions
 </h2>
 
-![image](https://github.com/user-attachments/assets/2ae2eaf9-684f-4cb9-a366-43a0dcca6c14)
+### 1. Top Manufacturers in the EV Two-Wheeler Segment
+
+![top_makers_2w_2023](https://github.com/user-attachments/assets/38121f49-8684-496c-9c6c-76a82d4dc7f6)
+- In 2023, OLA, Okinawa, and Hero Electric emerged as the leading manufacturers in the two-wheeler EV segment. 
+
+![top_makers_2w_2024](https://github.com/user-attachments/assets/02fb2413-86f6-4ab1-bf8a-a56cb476e821)
+- However, by 2024, there was a shift in the market dynamics, with OLA maintaining its top position, while TVS and Ather moved into the top ranks, indicating a competitive landscape and evolving consumer preferences.
+
+### 2. Bottom Manufacturers in the EV Two-Wheeler Segment
+![bottm_makers_2w_2023](https://github.com/user-attachments/assets/8d5812d6-7711-4dc3-a62d-26d61bb1c84f)
+- In 2023, Jitendra EVs, Being, and Pure EV were among the lower-ranked manufacturers in the two-wheeler EV segment. 
+
+![bottom_makers_2w_2024](https://github.com/user-attachments/assets/733a171e-5a19-4de4-857f-ed3ae068737d)
+- By 2024, the bottom positions saw a change, with Battre Electric, Revolt, and Kinetic Green occupying these spots, highlighting ongoing challenges for certain manufacturers in gaining market traction.
 
 
