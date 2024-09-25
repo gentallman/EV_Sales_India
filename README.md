@@ -12,7 +12,7 @@
 <h5 align="center">In-depth analysis of India's EV market, spotlighting the rise of new frontrunners, identifying regions fully charged with opportunity, and projecting the electrifying road to 2030. This isn't just data—it's the pulse of the EV revolution.</h5>
 
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYjBlODBjYTYtYjNlZC00ZDZjLThmYmYtZjM1OTUxMTljNDc1IiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZjBmYjdiYWItOGI1My00ZjczLTgyMjYtZWRiNzQzZGI3ZTQ1IiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
   <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/ed21a0ff-f400-4a4d-9a6c-80c76bf137e7" alt="Live Project" width="100">
 </a>
 
