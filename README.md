@@ -14,9 +14,10 @@
 <br>
 <p align="center">
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZjBmYjdiYWItOGI1My00ZjczLTgyMjYtZWRiNzQzZGI3ZTQ1IiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
-    <img src="https://github.com/user-attachments/assets/9be68370-5e42-499a-b54a-0838f017b289" alt="Live Project" width="120">
+    <img src="https://github.com/user-attachments/assets/9f720f25-43d7-461f-9949-7d942aa9a766" alt="Live Project" width="120">
 </a>
 </p>
+
 
 ### Purpose : 
 AtliQ Motors, a US EV titan boasting a 25% market share in North America's electric and hybrid segments, is revving up for a launch in India, where their presence is less than 2%. To accelerate this expansion, the head of AtliQ Motors India has put the data analytics team in the driver’s seat for a thorough market study.
