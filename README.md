@@ -11,10 +11,12 @@
 </p>
 <h5 align="center">In-depth analysis of India's EV market, spotlighting the rise of new frontrunners, identifying regions fully charged with opportunity, and projecting the electrifying road to 2030. This isn't just data—it's the pulse of the EV revolution.</h5>
 
-
+<br>
+<p align="center">
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZjBmYjdiYWItOGI1My00ZjczLTgyMjYtZWRiNzQzZGI3ZTQ1IiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
-  <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/ed21a0ff-f400-4a4d-9a6c-80c76bf137e7" alt="Live Project" width="100">
+    <img src="https://github.com/user-attachments/assets/9be68370-5e42-499a-b54a-0838f017b289" alt="Live Project" width="120">
 </a>
+</p>
 
 ### Purpose : 
 AtliQ Motors, a US EV titan boasting a 25% market share in North America's electric and hybrid segments, is revving up for a launch in India, where their presence is less than 2%. To accelerate this expansion, the head of AtliQ Motors India has put the data analytics team in the driver’s seat for a thorough market study.
